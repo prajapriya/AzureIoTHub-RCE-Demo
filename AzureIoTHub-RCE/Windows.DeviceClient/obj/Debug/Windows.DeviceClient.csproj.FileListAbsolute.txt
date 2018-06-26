@@ -1,0 +1,10 @@
+D:\TFS\GIT\AzureIoTHub-RCE-Demo\AzureIoTHub-RCE\Windows.DeviceClient\bin\Debug\Windows.DeviceClient.exe.config
+D:\TFS\GIT\AzureIoTHub-RCE-Demo\AzureIoTHub-RCE\Windows.DeviceClient\bin\Debug\Windows.DeviceClient.exe
+D:\TFS\GIT\AzureIoTHub-RCE-Demo\AzureIoTHub-RCE\Windows.DeviceClient\bin\Debug\Windows.DeviceClient.pdb
+D:\TFS\GIT\AzureIoTHub-RCE-Demo\AzureIoTHub-RCE\Windows.DeviceClient\obj\Debug\Windows.DeviceClient.csprojResolveAssemblyReference.cache
+D:\TFS\GIT\AzureIoTHub-RCE-Demo\AzureIoTHub-RCE\Windows.DeviceClient\obj\Debug\Windows.DeviceClient.Form1.resources
+D:\TFS\GIT\AzureIoTHub-RCE-Demo\AzureIoTHub-RCE\Windows.DeviceClient\obj\Debug\Windows.DeviceClient.Properties.Resources.resources
+D:\TFS\GIT\AzureIoTHub-RCE-Demo\AzureIoTHub-RCE\Windows.DeviceClient\obj\Debug\Windows.DeviceClient.csproj.GenerateResource.cache
+D:\TFS\GIT\AzureIoTHub-RCE-Demo\AzureIoTHub-RCE\Windows.DeviceClient\obj\Debug\Windows.DeviceClient.csproj.CoreCompileInputs.cache
+D:\TFS\GIT\AzureIoTHub-RCE-Demo\AzureIoTHub-RCE\Windows.DeviceClient\obj\Debug\Windows.DeviceClient.exe
+D:\TFS\GIT\AzureIoTHub-RCE-Demo\AzureIoTHub-RCE\Windows.DeviceClient\obj\Debug\Windows.DeviceClient.pdb
